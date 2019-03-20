@@ -1,0 +1,53 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 900mV 85C Model Setup 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.006
+TNS   : 0.000
+
+Type  : Slow 900mV 85C Model Hold 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.319
+TNS   : 0.000
+
+Type  : Slow 900mV 85C Model Minimum Pulse Width 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.804
+TNS   : 0.000
+
+Type  : Slow 900mV 85C Model Minimum Pulse Width 'i_clk'
+Slack : 9.959
+TNS   : 0.000
+
+Type  : Slow 900mV 0C Model Setup 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.147
+TNS   : 0.000
+
+Type  : Slow 900mV 0C Model Hold 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.308
+TNS   : 0.000
+
+Type  : Slow 900mV 0C Model Minimum Pulse Width 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.819
+TNS   : 0.000
+
+Type  : Slow 900mV 0C Model Minimum Pulse Width 'i_clk'
+Slack : 9.979
+TNS   : 0.000
+
+Type  : Fast 900mV 0C Model Setup 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 2.563
+TNS   : 0.000
+
+Type  : Fast 900mV 0C Model Hold 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Fast 900mV 0C Model Minimum Pulse Width 'my_pll_inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.792
+TNS   : 0.000
+
+Type  : Fast 900mV 0C Model Minimum Pulse Width 'i_clk'
+Slack : 9.698
+TNS   : 0.000
+
+------------------------------------------------------------

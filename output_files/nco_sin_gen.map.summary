@@ -1,0 +1,20 @@
+Analysis & Synthesis Status : Successful - Thu Dec 20 16:13:31 2018
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Standard Edition
+Revision Name : nco_sin_gen
+Top-level Entity Name : nco_sin_gen
+Family : Stratix IV
+Logic utilization : N/A
+    Combinational ALUTs : 29
+    Memory ALUTs : 0
+    Dedicated logic registers : 12
+Total registers : 12
+Total pins : 20
+Total virtual pins : 0
+Total block memory bits : 917,504
+DSP block 18-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 1
+Total DLLs : 0

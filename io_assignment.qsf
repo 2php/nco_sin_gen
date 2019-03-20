@@ -1,0 +1,21 @@
+set_location_assignment PIN_V9 -to dac_in[0]
+set_location_assignment PIN_V10 -to dac_in[1]
+set_location_assignment PIN_T9 -to dac_in[2]
+set_location_assignment PIN_U10 -to dac_in[3]
+set_location_assignment PIN_R8 -to dac_in[4]
+set_location_assignment PIN_R9 -to dac_in[5]
+set_location_assignment PIN_P8 -to dac_in[6]
+set_location_assignment PIN_N9 -to dac_in[7]
+set_location_assignment PIN_L11 -to dac_in[8]
+set_location_assignment PIN_M11 -to dac_in[9]
+set_location_assignment PIN_M7 -to dac_in[10]
+set_location_assignment PIN_M8 -to dac_in[11]
+set_location_assignment PIN_L10 -to dac_in[12]
+set_location_assignment PIN_M10 -to dac_in[13]
+
+set_location_assignment PIN_AB6 -to i_clk
+
+set_location_assignment PIN_J7 -to sw[0]
+set_location_assignment PIN_K7 -to sw[1]
+set_location_assignment PIN_AK6 -to sw[2]
+set_location_assignment PIN_L7 -to sw[3]
